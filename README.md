@@ -10,8 +10,8 @@ Za ovaj projekat su potrebni `GitHub account` kao i funckije `randint` iz biblio
 
 # Skills
 1. ***pytest***
-2. ***funckije sleep, strftime i localtime iz biblioteke time
-3. ***funkcija randint iz biblioteke random
+2. ***funckije sleep, strftime i localtime iz biblioteke time***
+3. ***funkcija randint iz biblioteke random***
 
 ## Installation
 Projekat se pokrece pomocu `IDLE Python-a`. Projekat se preuzima sa `GitHub-a` ili pokretanjem komande `git clone https://github.com/davidbujic/PKM`.
