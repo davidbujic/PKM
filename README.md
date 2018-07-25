@@ -8,6 +8,11 @@ Korisnik izabere jednu od 3 opcije koje se uporedjuje sa nasumicnim izborom komp
 ## Prerequisites
 Za ovaj projekat su potrebni `GitHub account` kao i funckije `randint` iz biblioteke `random` i `sleep` iz biblioteke `time`. Funkcije se dodaju komadnom `from random import randint` i `from time import sleep`. IDE za rad je IDLE Python.
 
+# Skills
+1. ***pytest***
+2. ***funckije sleep, strftime i localtime iz biblioteke time
+3. ***funkcija randint iz biblioteke random
+
 ## Installation
 Projekat se pokrece pomocu `IDLE Python-a`. Projekat se preuzima sa `GitHub-a` ili pokretanjem komande `git clone https://github.com/davidbujic/PKM`.
 
@@ -19,3 +24,4 @@ Pokretanje testova se vrsi pokretanjem fajla `pkm.py` u `Shell-u IDLE Python-a`.
 
 ## Versions
 1. Osnovna verzija
+2. Dodati detalji u Skills
